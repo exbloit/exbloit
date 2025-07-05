@@ -1,6 +1,9 @@
 <h1 align="center">SYNFON SYNFON SYNFON</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">ME</h3>
+<h4>
+  👦 I'm an 18-year-old passionate developer from Finland.
+</h4>
 <p align="left">
   📫 Discord: Synfon
 </p>
