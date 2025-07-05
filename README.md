@@ -33,12 +33,6 @@
   </a> 
 </p>
 
-<h3 align="left" style="display: inline-block; margin-right: 30px;">Frameworks & Libraries:</h3>
-<p align="left" style="display: inline-block; vertical-align: middle;">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-</p>
 
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Databases:</h3>
 <p align="left" style="display: inline-block; vertical-align: middle;">
