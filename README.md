@@ -2,14 +2,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📫 How to reach me: 
- 
-    Discord: Synfon
-
+  📫 Discord: Synfon
+  🔵 Also interested in cybersecurity
 </p>
 
 
-<h3 align="left"> 🔵 Also interested in cybersecurity</h3>
 
 
 
