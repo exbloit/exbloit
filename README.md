@@ -5,9 +5,6 @@
 <p align="left">
   📫 Discord: Synfon
 </p>
-<p>
-  🔵 Also interested in cybersecurity
-</p>
 
 
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Programming Languages:</h3>
