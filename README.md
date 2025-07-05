@@ -1,5 +1,5 @@
 <h1 align="center">Synfon</h1>
-<h1 align="center">Hi, I'm an 18-year-old passionate developer from Finland.</h1>
+<h2 align="center">Hi, I'm an 18-year-old passionate developer from Finland.</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
