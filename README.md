@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
 
-<h3 align="left">Conncect with me through Discord</h3>
-<p align="left">
-  <a href="https://github.com/synfon" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="discord" width="40" height="40" />
-  </a>
-  <span style="font-size: 18px; margin-left: 10px;">Synfon</span>
-</p>
+
 
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Programming Languages:</h3>
 <p align="left" style="display: inline-block; vertical-align: middle;">
