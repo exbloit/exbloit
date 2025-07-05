@@ -10,13 +10,6 @@
 </p>
 
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
-
-
-
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Programming Languages:</h3>
 <p align="left" style="display: inline-block; vertical-align: middle;">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -33,20 +26,7 @@
   </a> 
 </p>
 
-
-<h3 align="left" style="display: inline-block; margin-right: 30px;">Databases:</h3>
-<p align="left" style="display: inline-block; vertical-align: middle;">
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
 
 
 
