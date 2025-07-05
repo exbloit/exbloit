@@ -1,5 +1,22 @@
 <h1 align="center">Synfon</h1>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  📫 How to reach me: 
+  <a href="https://discord.com/users/YourDiscordID" target="_blank" rel="noreferrer">
+    Discord: MyDiscordName
+  </a>
+</p>
+
+<h3 align="left">What I'm learning:</h3>
+<p align="left">
+  🌱 I’m currently learning Python (slowly)
+</p>
+
+<h3 align="left">Fun Fact:</h3>
+<p align="left">
+  ⚡ Fun fact: I'm very smart
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
