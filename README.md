@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="left" style="display: inline-block; margin-right: 30px;">Tech Stack</h3>
+<h3 align="center" style="display: inline-block; margin-right: 30px;">Tech Stac:k</h3>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -21,10 +21,10 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
+
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synfon&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synfon&show_icons=true&locale=en" alt="synfon" /></p>
