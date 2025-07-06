@@ -27,5 +27,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synfon&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4729693" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/synfo.png)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synfon&show_icons=true&locale=en" alt="synfon" /></p>
