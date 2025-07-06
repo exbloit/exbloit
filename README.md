@@ -1,10 +1,11 @@
-<h1 align="center">SYNFON SYNFON SYNFON</h1>
+<h1 align="center">SYNFON</h1>
 
-<h3 align="center"> 👦 I'm an 18-year-old passionate developer from Finland.</h3>
+<h3 align="left"> 👦 I'm an 18-year-old passionate developer from Finland.</h3>
 
-<p align="center">
+<p align="left">
   📫 Discord: Synfon
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
 
 
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Tech Stack:</h3>
@@ -27,4 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synfon&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synfon&show_icons=true&locale=en" alt="synfon" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
