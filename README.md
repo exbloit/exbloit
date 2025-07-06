@@ -7,8 +7,8 @@
 </p>
 
 
-<h3 align="center" style="display: inline-block; margin-right: 30px;">Tech Stack:</h3>
-<div align="center">
+<h3 align="left" style="display: inline-block; margin-right: 30px;">Tech Stack:</h3>
+<div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
