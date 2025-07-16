@@ -1,4 +1,4 @@
-<h1 align="center">SYNFON</h1>
+<h1 align="center">SYNFO</h1>
 
 <h3 align="left"> 👦 I'm an 18-year-old passionate developer from Finland.</h3>
 
