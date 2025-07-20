@@ -3,9 +3,9 @@
 <h3 align="left"> 👦 I'm an 18-year-old passionate developer from Finland.</h3>
 
 <p align="left">
-  📫 Discord: Synfon
+  📫 Discord: Synfo
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="synfon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synfon&label=Profile%20views&color=0e75b6&style=flat" alt="Synfo" /> </p>
 
 
 <h3 align="left" style="display: inline-block; margin-right: 30px;">Tech Stack:</h3>
@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exbloit&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exbloit&show_icons=true&locale=en" alt="synfon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exbloit&show_icons=true&locale=en" alt="Synfo" /></p>
