@@ -26,6 +26,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=synfon&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exbloit&show_icons=true&locale=en&layout=compact" alt="synfon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synfon&show_icons=true&locale=en" alt="synfon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exbloit&show_icons=true&locale=en" alt="synfon" /></p>
